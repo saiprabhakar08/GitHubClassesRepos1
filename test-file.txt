@@ -1,3 +1,6 @@
 Hey I done some changes after commiting the empty file and after doing push
 operation.
 so again I should add,commit and push the file.
+Now i am doing changes through Git Hub website so I should commit the changes in Git Hub and again we should do pull operation to reflect the changes in local file present in our local directory.
+command should be used is:
+git pull
